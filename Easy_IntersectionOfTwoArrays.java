@@ -1,5 +1,6 @@
 /* Source of the question:
  * https://leetcode.com/problems/intersection-of-two-arrays/
+ * Time complexity: O(n)
  * */
 import java.util.HashMap;
 import java.util.Map.Entry;
